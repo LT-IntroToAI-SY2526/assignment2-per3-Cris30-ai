@@ -12,9 +12,10 @@ This assignment is about learning and applying the while loop and iterating thro
 
 ## Reflection Questions
 1. What was difficult for you while completing the match function?
-
+The most difficult thing for me while completing the match function was understand what the % symbol meant. After trial and error I finally discovered that the % symbol is used to match words from the source. When discovering % function I was able to complete the code. 
 
 
 2. Explain how you could use the match function for extracting information from a movie database.
+You can use the match function for extracting information from a movie database
 
 
