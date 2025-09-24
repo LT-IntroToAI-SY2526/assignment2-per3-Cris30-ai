@@ -16,6 +16,5 @@ The most difficult thing for me while completing the match function was understa
 
 
 2. Explain how you could use the match function for extracting information from a movie database.
-You can use the match function for extracting information from a movie database
-
+You can use the match function for extracting information from a movie database by pulling put the correct information needed. Once with the information is pulled the function can match it up with the pattern. 
 
